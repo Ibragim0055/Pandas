@@ -1,1 +1,1 @@
-hdeleted pandas/deposit.py
+deleted pandas/deposit.py
